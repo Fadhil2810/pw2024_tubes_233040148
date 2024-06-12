@@ -1,0 +1,35 @@
+
+body{
+
+    background-position: center;
+    background-size: cover;
+ 
+}
+
+.home{
+    background-image: url("../assets/img/home.jpeg");
+}
+
+/* Background Home */
+.homebg {
+    background-image: url("../assets/img/homebg.jpg");
+    background-size: cover;
+}
+
+/* navbar */
+.navbar-brand {
+    font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin-left: 70px;
+}
+
+
+Footer
+ .footer icon {
+    display: flex;
+    place-content: center;
+    scale: 1;
+} 
+
